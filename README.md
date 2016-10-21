@@ -1,0 +1,2 @@
+# pinggrafico
+estado de enlace 
